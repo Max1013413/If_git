@@ -1,10 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        System.out.println("Hello, People!");
     
 
-        int luku1 = 9;
-        int luku2 = 2;
+        int luku1 = 33;
+        int luku2 = 22;
 
         if (luku1 == luku2) {
             System.out.println("luku1 ja luku2 yhtäsuuret");
