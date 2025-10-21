@@ -7,11 +7,11 @@ public class App {
         int luku2 = 33;
 
         if (luku1 == luku2) {
-            System.out.println("luku1 ja luku2 yhtäsuuret");
+            System.out.println("luku1 ja luku2 ovat yhtäsuuret");
         }
     
         if (luku1 != luku2) {
-            System.out.println("luku1 ja luku2 ei yhtäsuuret");
+            System.out.println("luku1 ja luku2 eivät ole yhtäsuuret");
         }
     }
 }
